@@ -1,4 +1,4 @@
-# ce_cherbao_module2.5/variables.tf
+# ce_cherbao_module2.6/variables.tf
 
 variable "region" {
   description = "AWS Region in Singapore"
